@@ -1,0 +1,22 @@
+{
+  "name": "rif-firstnpm",
+  "version": "1.0.0",
+  "description": "return rif hello message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rifaqueahammed/first-npm-lybrary.git"
+  },
+  "keywords": [
+    "rif-npm"
+  ],
+  "author": "rifaqueahammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rifaqueahammed/first-npm-lybrary/issues"
+  },
+  "homepage": "https://github.com/rifaqueahammed/first-npm-lybrary#readme"
+}
